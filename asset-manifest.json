@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Challenge/static/css/main.b99d273c.css",
-    "main.js": "/Challenge/static/js/main.7c8add24.js",
-    "static/media/Lets-go.jpeg": "/Challenge/static/media/Lets-go.75d95dd31dadeae82e4c.jpeg",
-    "static/media/stock-vector-versus-vs-comics-style-background-vertical-template-orange-and-blue-comic-book-style-background-2320000483.jpg": "/Challenge/static/media/stock-vector-versus-vs-comics-style-background-vertical-template-orange-and-blue-comic-book-style-background-2320000483.7696eff869772cc45a3d.jpg",
-    "static/media/coming-soon-text-abstract-sunrise-dark-background-with-motion-effect_157027-1073.jpg": "/Challenge/static/media/coming-soon-text-abstract-sunrise-dark-background-with-motion-effect_157027-1073.98029ba1c1077533f1b8.jpg",
-    "static/media/silver-metallic-lion-logo-on-a-black-background-vector-20158388.webp": "/Challenge/static/media/silver-metallic-lion-logo-on-a-black-background-vector-20158388.d5fc8cef312ba617af00.webp",
-    "index.html": "/Challenge/index.html",
-    "main.b99d273c.css.map": "/Challenge/static/css/main.b99d273c.css.map",
-    "main.7c8add24.js.map": "/Challenge/static/js/main.7c8add24.js.map"
+    "main.css": "/home/static/css/main.b99d273c.css",
+    "main.js": "/home/static/js/main.1d40ef09.js",
+    "static/media/Lets-go.jpeg": "/home/static/media/Lets-go.75d95dd31dadeae82e4c.jpeg",
+    "static/media/stock-vector-versus-vs-comics-style-background-vertical-template-orange-and-blue-comic-book-style-background-2320000483.jpg": "/home/static/media/stock-vector-versus-vs-comics-style-background-vertical-template-orange-and-blue-comic-book-style-background-2320000483.7696eff869772cc45a3d.jpg",
+    "static/media/coming-soon-text-abstract-sunrise-dark-background-with-motion-effect_157027-1073.jpg": "/home/static/media/coming-soon-text-abstract-sunrise-dark-background-with-motion-effect_157027-1073.98029ba1c1077533f1b8.jpg",
+    "static/media/silver-metallic-lion-logo-on-a-black-background-vector-20158388.webp": "/home/static/media/silver-metallic-lion-logo-on-a-black-background-vector-20158388.d5fc8cef312ba617af00.webp",
+    "index.html": "/home/index.html",
+    "main.b99d273c.css.map": "/home/static/css/main.b99d273c.css.map",
+    "main.1d40ef09.js.map": "/home/static/js/main.1d40ef09.js.map"
   },
   "entrypoints": [
     "static/css/main.b99d273c.css",
-    "static/js/main.7c8add24.js"
+    "static/js/main.1d40ef09.js"
   ]
 }
