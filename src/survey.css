@@ -1,0 +1,47 @@
+
+.surveyBox{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+
+  
+}
+.survey{
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 125%;
+    width: 135%;
+    margin-top: 10rem;
+
+}
+.surveyForm{
+    display: flex;
+  flex-direction: column;
+}
+.Submit{
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    cursor: pointer;
+    height: 2rem;
+}
+.surveyElement{
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    width: 100%;
+    
+}
+.challengeImage{
+    width: 100%;
+    opacity: 20%;
+}
+.formElements{
+    margin: 6px;
+}
